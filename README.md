@@ -24,4 +24,4 @@ Durante o curso, foram explorados diversos conceitos e técnicas, incluindo:
 
 O projeto foi desenvolvido utilizando a IDE Visual Studio Code.
 
-Espero que este projeto ajude a demonstrar as habilidades adquiridas durante o curso!
+Espero que este projeto ajude a demonstrar as habilidades adquiridas durante o curso que agregou muito reconhecimento para mim!
